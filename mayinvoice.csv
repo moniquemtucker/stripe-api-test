@@ -1,0 +1,5 @@
+invoice_timestamp,customer_id,subscription_amount,overage_charges,total
+1430889440,cus_6BiG9PMpKPSn2T,50.0,7.42,57.42
+1430889387,cus_6BiHAG9QQLUSqD,50.0,87.62,137.62
+1430889331,cus_6BiHeaLoJShVwD,50.0,10.72,60.72
+1430889286,cus_6BiHeaLoJShVwD,50.0,0.0,50.0
